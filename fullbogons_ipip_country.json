@@ -1,0 +1,198 @@
+[
+	{
+		"code": "AE",
+		"value": 3072
+	},
+	{
+		"code": "AFRINIC",
+		"value": 2055680
+	},
+	{
+		"code": "APNIC",
+		"value": 2743552
+	},
+	{
+		"code": "AR",
+		"value": 36864
+	},
+	{
+		"code": "AT",
+		"value": 6400
+	},
+	{
+		"code": "BA",
+		"value": 4096
+	},
+	{
+		"code": "BO",
+		"value": 5120
+	},
+	{
+		"code": "BR",
+		"value": 407808
+	},
+	{
+		"code": "BZ",
+		"value": 10240
+	},
+	{
+		"code": "CH",
+		"value": 10240
+	},
+	{
+		"code": "CL",
+		"value": 15872
+	},
+	{
+		"code": "CO",
+		"value": 90112
+	},
+	{
+		"code": "CR",
+		"value": 67072
+	},
+	{
+		"code": "CY",
+		"value": 3072
+	},
+	{
+		"code": "DE",
+		"value": 5120
+	},
+	{
+		"code": "DO",
+		"value": 1536
+	},
+	{
+		"code": "EC",
+		"value": 5632
+	},
+	{
+		"code": "EE",
+		"value": 256
+	},
+	{
+		"code": "ES",
+		"value": 6144
+	},
+	{
+		"code": "FR",
+		"value": 10496
+	},
+	{
+		"code": "GB",
+		"value": 16384
+	},
+	{
+		"code": "HK",
+		"value": 1024
+	},
+	{
+		"code": "IE",
+		"value": 1024
+	},
+	{
+		"code": "IQ",
+		"value": 2048
+	},
+	{
+		"code": "IR",
+		"value": 1536
+	},
+	{
+		"code": "IT",
+		"value": 11008
+	},
+	{
+		"code": "JO",
+		"value": 20480
+	},
+	{
+		"code": "KW",
+		"value": 2048
+	},
+	{
+		"code": "KZ",
+		"value": 1024
+	},
+	{
+		"code": "LACNIC",
+		"value": 30464
+	},
+	{
+		"code": "LB",
+		"value": 3072
+	},
+	{
+		"code": "LT",
+		"value": 1280
+	},
+	{
+		"code": "LU",
+		"value": 2048
+	},
+	{
+		"code": "LV",
+		"value": 2048
+	},
+	{
+		"code": "MX",
+		"value": 19968
+	},
+	{
+		"code": "NG",
+		"value": 2048
+	},
+	{
+		"code": "NL",
+		"value": 24320
+	},
+	{
+		"code": "PA",
+		"value": 71680
+	},
+	{
+		"code": "PE",
+		"value": 17408
+	},
+	{
+		"code": "PL",
+		"value": 3328
+	},
+	{
+		"code": "PY",
+		"value": 2048
+	},
+	{
+		"code": "RU",
+		"value": 21760
+	},
+	{
+		"code": "SR",
+		"value": 256
+	},
+	{
+		"code": "SV",
+		"value": 1024
+	},
+	{
+		"code": "TR",
+		"value": 1024
+	},
+	{
+		"code": "TT",
+		"value": 1024
+	},
+	{
+		"code": "UA",
+		"value": 4096
+	},
+	{
+		"code": "US",
+		"value": 32000
+	},
+	{
+		"code": "VE",
+		"value": 3072
+	}
+]
